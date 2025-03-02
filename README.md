@@ -49,10 +49,7 @@ Feel free to check out my repositories and star the ones you find interesting!
 
 ## Let's Connect 🌐
 
-- **Website:** [samjoch.com](https://samjoch.com)
 - **E-coffee** [E-coffee](https://cal.com/samjoch/e-coffee)
-- **Twitter/X:** [@samjoch](https://twitter.com/samjoch)  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 I’m always excited to collaborate on projects that drive innovation and deliver real-world impact. Feel free to drop me a line!
 
