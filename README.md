@@ -40,7 +40,7 @@ Feel free to check out my repositories and star the ones you find interesting!
   JavaScript, TypeScript, React, Node.js, React Native
 
 - **Cloud & DevOps:**  
-  AWS, GCP, Docker, CI/CD pipelines
+  Supabase, Netlify, Scalingo (HDS), AWS, GCP, Docker, CI/CD pipelines
 
 - **Other:**  
   Agile methodologies, Technical Consulting, and Code Quality Best Practices
